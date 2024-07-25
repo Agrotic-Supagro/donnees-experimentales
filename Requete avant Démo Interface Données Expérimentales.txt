@@ -1,0 +1,3 @@
+Executer les requêtes suivantes dans phpMyAdmin avant de commencer une démo de l'interface d'import des données expérimentales : 
+
+delete FROM `mesures`;
