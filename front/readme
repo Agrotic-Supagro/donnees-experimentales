@@ -1,0 +1,8 @@
+Pour passer de la version locale à la version serveur du front 
+-> aller dans le code source
+-> dossier src
+-> dossier services
+-> au début du fichier db_interactions.js 
+-> modifier la variable baseURL 
+    -> version locale : mettre l'adresse avec localhost
+    -> version serveur : mettre l'adresse serveur
